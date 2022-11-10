@@ -90,7 +90,7 @@
   </head>
 
   <body>
-    <h1>Nine-Code</h1>
+    <h1>Mai Ngọc Ánh</h1>
     <div class="box">
       <canvas id="pinkboard"></canvas>
     </div>
